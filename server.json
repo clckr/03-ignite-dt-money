@@ -8,7 +8,6 @@
       "price": 14000,
       "createdAt": "2022-07-29T19:36:44.505Z"
     },
-
     {
       "id": 2,
       "description": "Hambúrguer",
@@ -24,6 +23,14 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "afsdfa",
+      "price": 2,
+      "category": "test",
+      "type": "income",
+      "createdAt": "2025-08-14T19:31:05.849Z",
+      "id": 4
     }
   ]
 }
